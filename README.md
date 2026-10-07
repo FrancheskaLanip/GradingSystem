@@ -2,7 +2,6 @@
 
 A simple web app for managing student grades, built with Python and Flask. It calculates averages, ranks students, and lets you search records quickly. The design uses the PUP colors (maroon and gold).
 
-**Group 9:** Chrissa Cervantes, Franchesca Lanip, Dionars Pasquito, Anthony Baldoza
 
 ## Screenshots
 
